@@ -2,12 +2,12 @@ body{
    background-color: orangered; 
 }
 p {
-    font-size: 50px;
+    font-size: 5px;
     font-weight: bold;
     color:aqua;
 }
 p1{
-    font-size:70px;
+    font: size 5px;
     font-weight:bold;
     color:aqua;
 }
