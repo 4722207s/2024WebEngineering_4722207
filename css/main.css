@@ -1,6 +1,13 @@
+body{
+   background-color: orangered; 
+}
 p {
+    font-size: 50px;
+    font-weight: bold;
     color:aqua;
 }
 p1{
-    color:brown;
+    font-size:70px;
+    font-weight:bold;
+    color:aqua;
 }
